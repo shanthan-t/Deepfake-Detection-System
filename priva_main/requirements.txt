@@ -1,0 +1,11 @@
+facenet_pytorch==2.5.3
+librosa==0.10.1
+matplotlib==3.7.2
+numpy==1.24.3
+opencv_python==4.8.0.76
+pandas==2.0.3
+Pillow==10.0.0
+streamlit==1.30.0
+torch==2.0.1
+torchvision==0.15.2
+timm==0.9.12
